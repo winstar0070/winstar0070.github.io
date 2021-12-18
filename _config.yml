@@ -1,9 +1,9 @@
 title: YunSeok's Blog
 description: "Hi?"
 author:
-  name: "YunSeok, Hong"
+  name: "YunSeokHong"
   email: "me@yunseok.kr"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  url: "https://blog.yunseok.kr"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "YunSeok, Hong"
+owner : "YunSeokHong"
 year : "2021"
